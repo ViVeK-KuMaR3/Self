@@ -1,1 +1,1 @@
-# Ineuron
+Kaggle Projects
