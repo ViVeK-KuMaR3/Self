@@ -1,8 +1,0 @@
-2022-01-01 18:41:32,874                                                Title  ... Ratings
-0  Data Scientist - SQL/Python/Machine Learning A...  ...      NA
-1  Assistant Manager/Manager/Data Scientist - Pyt...  ...      NA
-2  Assistant Manager/ Manager/ Data Scientist - P...  ...      NA
-3  Senior Data Scientist/Tech Lead - SQL/Python/B...  ...      NA
-4  Data Scientist - SQL/Python/Machine Learning A...  ...      NA
-
-[5 rows x 3 columns]
